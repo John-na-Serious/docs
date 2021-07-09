@@ -1,0 +1,26 @@
+# Joon na Seriously
+## Explanation
+study that conducts related projects and reviews each other based on the Vanilla JS, React curriculum.
+
+## Contributor
+- unanchoi
+- chaeyeon09
+- oereo
+
+
+## Plan
+|Week|Description|Link|
+|:---:|:---|:---|
+|1주차|초보자를 위한 바닐라 자바스크립트|https://www.youtube.com/watch?v=FP9QEHzqwRM&list=PLm_ohmpwdqdZavpybKWCcWsUaaTCgv3gN|
+|1주차|Vanilla JS로 Chrome 앱 만들기|https://nomadcoders.co/javascript-for-beginners/lobby|
+|1주차|Vanilla JS로 그림판 만들기|https://nomadcoders.co/javascript-for-beginners-2|
+
+
+## Convention
+### 1. README.md
+- Repo를 만들시에 기본적으로 README.md를 작성합니다.
+- Repo에 대한 간단한 설명, 수업에 대한 내용, 궁금한 사항, 진도율을  상세히 작성합니다.
+
+### 2. Review
+- 궁금한 사항에 대해서 리뷰를 통해서 해결합니다.
+- 리뷰는 최대한 자세히 기술을 하고 참고가 될 만한 사이트를 참조하는 것을 적극 추천합니다. 
