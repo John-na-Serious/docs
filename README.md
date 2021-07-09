@@ -11,7 +11,6 @@ study that conducts related projects and reviews each other based on the Vanilla
 ## Plan
 |Week|Description|Link|
 |:---:|:---|:---|
-|1주차|초보자를 위한 바닐라 자바스크립트|https://www.youtube.com/watch?v=FP9QEHzqwRM&list=PLm_ohmpwdqdZavpybKWCcWsUaaTCgv3gN|
 |1주차|Vanilla JS로 Chrome 앱 만들기|https://nomadcoders.co/javascript-for-beginners/lobby|
 |1주차|Vanilla JS로 그림판 만들기|https://nomadcoders.co/javascript-for-beginners-2|
 
