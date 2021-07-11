@@ -11,7 +11,6 @@ study that conducts related projects and reviews each other based on the Vanilla
 ## Plan
 |Week|Description|Link|
 |:---:|:---|:---|
-<<<<<<< HEAD
 |1주차|초보자를 위한 바닐라 자바스크립트|https://www.youtube.com/watch?v=FP9QEHzqwRM&list=PLm_ohmpwdqdZavpybKWCcWsUaaTCgv3gN|
 |1주차|[INFLEARN] Node.js & React.js|https://www.inflearn.com/course/%EB%94%B0%EB%9D%BC%ED%95%98%EB%A9%B0-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EB%85%B8%EB%93%9C-%EB%A6%AC%EC%95%A1%ED%8A%B8-%EA%B8%B0%EB%B3%B8/dashboard|
 |2주차|[INFLEARN] Node.js & React.js - Movie Web Application |https://www.inflearn.com/course/%EB%94%B0%EB%9D%BC%ED%95%98%EB%A9%B0-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EB%85%B8%EB%93%9C-%EB%A6%AC%EC%95%A1%ED%8A%B8-%EA%B8%B0%EB%B3%B8/dashboard|
