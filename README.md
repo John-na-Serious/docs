@@ -5,6 +5,7 @@ study that conducts related projects and reviews each other based on the Vanilla
 ## Contributor
 - unanchoi
 - chaeyeon09
+- ohjeeyoung
 - oereo
 
 
