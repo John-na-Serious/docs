@@ -9,7 +9,7 @@ study that conducts related projects and reviews each other based on the Vanilla
 [![All Contributors](https://img.shields.io/badge/all_contributors-6-green.svg?style=flat-square)](#contributors-)
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/oereo"><img src="https://avatars.githubusercontent.com/oereo?v=4?s=200" width="200px;" alt=""/><br /><sub><b>oereo</b></sub></a></td>
+    <td align="center"><a href="https://github.com/oereo"><img src="https://avatars.githubusercontent.com/oereo?v=4?s=200" width="220px;" alt=""/><br /><sub><b>oereo</b></sub></a></td>
     <td align="center"><a href="https://github.com/unanchoi"><img src="https://avatars.githubusercontent.com/unanchoi?v=4?s=200" width="200px;" alt=""/><br /><sub><b>unanchoi</b></sub></a></td>
     <td align="center"><a href="https://github.com/seungjohan"><img src="https://avatars.githubusercontent.com/seungjohan?v=4?s=200" width="200px;" alt=""/><br /><sub><b>seungjohan</b></sub></a></td>
     <td align="center"><a href="https://github.com/chaeyeon09"><img src="https://avatars.githubusercontent.com/chaeyeon09?v=4?s=200" width="200px;" alt=""/><br /><sub><b>chaeyeon09</b></sub></a></td>
@@ -53,10 +53,15 @@ study that conducts related projects and reviews each other based on the Vanilla
 
 <br>
 
+### Meeting
+- Every `Friday` at `12pm`
+- `Google Meet`
+<br>
+
 ## Convention
 ### 1. README.md
 - Repo를 만들시에 기본적으로 README.md를 작성합니다.
-- Repo에 대한 간단한 설명, 수업에 대한 내용, 궁금한 사항, 진도율을  상세히 작성합니다.
+- Repo에 대한 간단한 설명, 수업에 대한 내용, 궁금한 사항, 진도율을 상세히 작성합니다.
 
 ### 2. Review
 - 궁금한 사항에 대해서 리뷰를 통해서 해결합니다.
