@@ -30,7 +30,7 @@ study that conducts related projects and reviews each other based on the Vanilla
 |1주차|[John Ahn] Node.js & React.js|[inflearn](https://www.inflearn.com/course/%EB%94%B0%EB%9D%BC%ED%95%98%EB%A9%B0-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EB%85%B8%EB%93%9C-%EB%A6%AC%EC%95%A1%ED%8A%B8-%EA%B8%B0%EB%B3%B8/dashboard)|
 |2주차|[John Ahn] Node.js & React.js - Movie Web Application |[inflearn](https://www.inflearn.com/course/%EB%94%B0%EB%9D%BC%ED%95%98%EB%A9%B0-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EB%85%B8%EB%93%9C-%EB%A6%AC%EC%95%A1%ED%8A%B8-%EA%B8%B0%EB%B3%B8/dashboard)|
 |2주차|[John Ahn] Node.js & React.js - YOUTUBE |[inflearn](https://www.inflearn.com/course/%EB%94%B0%EB%9D%BC%ED%95%98%EB%A9%B0-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EB%85%B8%EB%93%9C-%EB%A6%AC%EC%95%A1%ED%8A%B8-%EA%B8%B0%EB%B3%B8/dashboard)|
-|3주차|Project||
+|중간점검|Session 진도 체크 및 5분 피칭 관련 보충기간|[자료정리](https://github.com/Joon-na-Seriously/react-node-summary)|
 |3주차|Project||
 
 <br>
