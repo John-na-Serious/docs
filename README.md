@@ -40,6 +40,7 @@ study that conducts related projects and reviews each other based on the Vanilla
 |:---:|:--------------------------|:---|:---|
 |1|Chatting application : `React`+ `Firebase` + `Socket.io` + `Redux`|[Chat](https://www.inflearn.com/course/%EB%A6%AC%EC%95%A1%ED%8A%B8-%ED%8C%8C%EC%9D%B4%EC%96%B4%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EC%B1%84%ED%8C%85-%EC%95%B1)|31900|
 |2|ShoppingMall : `React`+ `NodeJS` +`MongoDB` + `Redux` + `ExpressJS`|[Shop](https://www.inflearn.com/course/%EB%94%B0%EB%9D%BC%ED%95%98%EB%A9%B0-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EB%85%B8%EB%93%9C-%EB%A6%AC%EC%95%A1%ED%8A%B8-%EC%87%BC%ED%95%91%EB%AA%B0)|11000|
+|3|Slack Clone Coding: `React`+`SWR`+`Styled Component`+`Socket.io`|[Slack](https://www.inflearn.com/course/%ED%81%B4%EB%A1%A0%EC%BD%94%EB%94%A9-%EC%8B%A4%EC%8B%9C%EA%B0%84%EC%B1%84%ED%8C%85#curriculum)|
 |Appendix|Interactive Web : `ScrollJS` -> provider : oereo|[Apple](https://www.apple.com/kr/airpods-pro/)|free|
 
 
